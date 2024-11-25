@@ -1,0 +1,21 @@
+system: "base16"
+name: "Pinata"
+author: "Steve Simkins"
+variant: "dark"
+palette:
+  base00: "#161420" # base
+  base01: "#252236" 
+  base02: "#504975"
+  base03: "#504975"
+  base04: "#e2ddff"
+  base05: "#f6f6f6" # text
+  base06: "#fbe4ff" # rose quartz
+  base07: "#e2ddff" # fog
+  base08: "#f4aeff" # cotton candy
+  base09: "#f9c455" # saffron mango
+  base0A: "#ffd699" # grandis
+  base0B: "#4de5a6" # shamrock
+  base0C: "#85eeba" # magic mint
+  base0D: "#a79aff" # lavender 
+  base0E: "#c5bcff" # pale violet 
+  base0F: "#f7c9ff" # blush
