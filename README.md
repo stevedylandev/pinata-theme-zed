@@ -6,7 +6,7 @@ Welcome to the official theme for [Pinata](https://pinata.cloud)! 🎉
 
 This theme follows the Pinata design system, providing a pleasing and whimsical experience for your editor. Simply install the extension to start using!
 
-![code](https://dweb.mypinata.cloud/files/bafybeifdiixe3imvglqxmehszptkleopepeulh6nza5yn7v5xezhkkzhl4)
+![code](https://dweb.mypinata.cloud/files/bafybeid7wqvk4qwzuqouvnazliyueorfxm262y5lpsnyosgnfutfurawfi)
 
 [Learn more about Pinata](https://pinata.cloud)
 
